@@ -1,7 +1,7 @@
 # function print a Bar
 ```
 $ ./printb
-[===========================================================>]1000000\1000000 downloading
+[===========================================================>]1000000\1000000 downloading...
 ```
 # License
 [MIT License](https://opensource.org/licenses/MIT)
