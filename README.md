@@ -1,4 +1,4 @@
-# function print a Bar
+# print bar function.
 ```
 $ ./printb
 [===========================================================>]1000000\1000000 downloading...
